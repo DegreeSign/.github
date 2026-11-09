@@ -44,17 +44,13 @@ All packages are on npm and MIT licensed. They are small on purpose: zero runtim
 | [`@degreesign/voice`](https://github.com/DegreeSign/ds_voice) | Speech to text and text to speech on the device |
 | [`@degreesign/migrate`](https://github.com/DegreeSign/ds_migrate) | One command Ubuntu server migration over SSH |
 
-```bash
-npm install @degreesign/ui @degreesign/utils @degreesign/server
-```
+Install with npm: `npm install @degreesign/ui @degreesign/utils @degreesign/server`
 
 ## Agent Skills
 
 [`@degreesign/skills`](https://github.com/DegreeSign/skills) gives AI coding agents one entry point and seven reusable sub-skills: Material Symbols icons, npm releases and architecture maps, house coding conventions, high-performance web apps, Node backends, task backlogs and LLM discovery files. Plain Markdown, any skills compatible client.
 
-```bash
-npx @degreesign/skills
-```
+Install with npx: `npx @degreesign/skills`
 
 ## How we build
 
